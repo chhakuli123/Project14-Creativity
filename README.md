@@ -1,6 +1,6 @@
 # Project 14 | Creativity ![Project 14](https://img.shields.io/badge/Project%20-14-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow)
 
-### By Chhakuli
+### By Chhakuli zingare
 
 
 ## 🔗Live Link -: [Creativity  ](https://project14-creativity.netlify.app/)
